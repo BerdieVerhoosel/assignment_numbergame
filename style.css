@@ -1,0 +1,23 @@
+.bodyindex {
+    background-image: url(backgroundNumbergame.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: white;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 10%;
+    color: white;
+}
+
+.button {
+    margin: 10%;
+    padding: 10%;
+    color: black;
+}
+
+.return {
+    margin: 10%;
+    padding: 10%;
+    color: white; 
+    border: white;
+}
